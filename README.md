@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Dayaram1030" target="blank"><img align="center" src="file:///D:/Intern/projects/portfolio/src/assets/twitter.png" alt="DayaramThapa" height="30" width="40" /></a>
+<a href="https://twitter.com/Dayaram1030" target="blank"><img align="center" src="[file:///D:/Intern/projects/portfolio/src/assets/twitter.png](https://github.com/Daya1030/Triweb-Learning/blob/main/projects/Portfolio/src/assets/twitter.png)" alt="DayaramThapa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dayaram-thapa-0083b320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DayaramThapa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCc0Go3Sp9awQt5cGnlYnsXA" target="blank"><img align="center" src="file:///D:/Intern/projects/portfolio/src/assets/youtube.png" alt="DayaramThapa" height="30" width="40" /></a>
 </p>
