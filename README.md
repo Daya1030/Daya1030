@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayaram Thapa</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw09IBZd4SnVz8BY5s3aA625&ust=1696913827334000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCPjvtuCW6IEDFQAAAAAdAAAAABCpAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daya1030&label=Profile%20views&color=0e75b6&style=flat" alt="daya1030" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, Rest Api, MongoDB, MySQL.**
 
-- 👨‍💻 All of my projects are available at [dayaramthapa.com.np](dayaramthapa.com.np)
+- 👨‍💻 All of my projects are available at [https://github.com/Daya1030](https://github.com/Daya1030)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, Rest Api, MongoDB, MySQL.**
 
