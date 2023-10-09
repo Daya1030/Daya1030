@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/874647785960521748/1154316275930124330/daya1030.png?ex=6530d8ce&is=651e63ce&hm=35b99ed827f0e37fa2aceda3c2066007dc0c411cc2091a811b600b0cee152cb9&" alt="DayaramThapa" /> </p>
-
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, Rest Api, MongoDB, MySQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daya1030](https://github.com/Daya1030)
