@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, Rest Api, MongoDB, MySQL.**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Daya1030](https://github.com/Daya1030](https://github.com/Daya1030?tab=repositories))
+- 👨‍💻 All of my projects are available at [[https://github.com/Daya1030))
 - 👨‍💻 Work done during my internship on Triweb are available at [[https://github.com/Daya1030/Triweb-Learning/blob/main/README.md))
 - 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, Rest Api, MongoDB, MySQL.**
 
